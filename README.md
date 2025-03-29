@@ -1,12 +1,6 @@
 # Book_Sales_sql_project
-Here's a solid description you can add to your **README** for your SQL project on book sales:  
-
----
 
 # 📚 Book Sales Database  
-
-## 📖 Project Overview  
-This project is a comprehensive **SQL-based book sales database** designed to manage and analyze key aspects of a bookstore's operations. It includes structured data on **orders, customers, and book details**, allowing for efficient tracking and retrieval of sales insights.  
 
 ## 📂 Database Structure  
 The project consists of multiple tables, including:  
